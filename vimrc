@@ -1,4 +1,9 @@
 syntax on
+colorscheme atom-dark-256 
+set autoindent
+set ruler
+set hlsearch
+set number
 set backspace=indent,eol,start
 set tabstop=2 shiftwidth=2 expandtab
 if has("multi_byte")
